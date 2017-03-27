@@ -10,6 +10,8 @@ namespace GiveMeSteak
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World! Give me steak");
+            Console.ReadKey();
         }
     }
 }
